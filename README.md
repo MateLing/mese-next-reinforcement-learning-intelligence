@@ -1,2 +1,4 @@
-# mese-next-reinforcement-learning-intelligence
-妈的智障
+MESE Reinforcement Learning Intelligence
+=============
+# 1. 
+
